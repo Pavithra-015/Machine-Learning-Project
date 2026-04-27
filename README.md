@@ -1,2 +1,2 @@
-# Machine-Learning-Project
+# Machine_Learning_Project
 Fake News Detection system
