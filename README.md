@@ -56,18 +56,19 @@ Technologies Used:
 8. Streamlit (Web App)
 
    
+Machine Learning Workflow:
 
-How It Works:
+1. Data Collection (Fake & Real News Dataset from Kaggle),
+ 
+2. Data Preprocessing (Tokenization, Stopword Removal, Stemming),
 
-1. Data is collected and combined from Fake and True news datasets,
-   
-2. Text is cleaned (removal of stopwords, symbols, and noise),
-   
-3. TF-IDF converts text into numerical features,
+3. Feature Extraction using TF-IDF,
 
-4. Logistic Regression model is trained on processed data,
-   
-5.Model predicts whether news is Real or Fake with confidence score
+4. Model Training (Naive Bayes + Logistic Regression),
+
+5. Model Evaluation (Accuracy, Precision, Recall, F1-score),
+
+6. Deployment using Streamlit.
 
 
 
