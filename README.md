@@ -82,16 +82,7 @@ streamlit run app.py
 
 
 
-Output Example:
 
-Input:
-“Government announces new policy”
-
-Output:
-
-Real News
-
-Confidence: 91.2%
 
 
 
