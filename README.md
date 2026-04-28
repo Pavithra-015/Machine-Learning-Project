@@ -17,9 +17,12 @@ The Fake News Detection System is a Machine Learning-based web application desig
 This project uses TF-IDF feature extraction and classification algorithms (Naive Bayes and Logistic Regression) to analyze news content, headlines, writing style, and linguistic patterns. The system is deployed using Streamlit, allowing users to input news text and receive real-time predictions along with confidence scores and insights.
 
 Key Features
-Classifies news articles as Real or Fake
-Provides confidence/probability scores
-Displays important keywords influencing prediction
+1.Classifies news articles as Real or Fake,
+
+2.Provides confidence/probability scores,
+
+3.Displays important keywords influencing prediction,
+
 Handles noisy and unstructured text data
 Detects patterns commonly found in misinformation
 Provides simple explanations for predictions
