@@ -3,7 +3,7 @@
 
 Name:Pavithra kamath USN:25MSDSR026
 
-#Fake News Detection system
+#FAKE NEWS DETECTION SYSTEM
 
 Dataset used from Kaggle:
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
