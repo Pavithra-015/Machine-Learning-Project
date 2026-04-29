@@ -6,8 +6,8 @@
 Name:Pavithra kamath USN:25MSDSR026
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dataset used from Kaggle:
-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+**Dataset used from Kaggle:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
