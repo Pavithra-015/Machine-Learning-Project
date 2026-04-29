@@ -186,7 +186,7 @@ Additionally, the system provides a confidence score, highlights important keywo
 
 Although the model performs well on structured news data, it is important to note that it is pattern-based rather than fact-based, and may not accurately verify real-world events or very short/unstructured inputs.
 
-**Overall, this project provides an efficient and scalable solution for detecting misinformation, with potential applications in content moderation, media verification, and social platform monitoring.**
+Overall, this project provides an efficient and scalable solution for detecting misinformation, with potential applications in content moderation, media verification, and social platform monitoring.*
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1774" height="887" alt="Work flow diagram" src="https://github.com/user-attachments/assets/9c0e47c5-b4c1-4c9b-8862-8e7c62424dad" />
 
